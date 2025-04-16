@@ -2,11 +2,11 @@
 | [**Week →**](https://github.com/AmigaMaster/github-profile-views-counter/blob/master/readme/231042074/week.md) | [**Month →**](https://github.com/AmigaMaster/github-profile-views-counter/blob/master/readme/231042074/month.md) | [**Year →**](https://github.com/AmigaMaster/github-profile-views-counter/blob/master/readme/231042074/year.md) |
 | ---- | ---- | ----- |
 ### :octocat: [Simple-Game-Solutions](https://github.com/AmigaMaster/Simple-Game-Solutions)
-![Image of github-profile-views-counter](https://github.com/AmigaMaster/github-profile-views-counter/blob/master/graph/231042074/large/year.png)
+![Image of github-profile-views-counter](https://github.com/AmigaMaster/github-profile-views-counter/blob/master/graph/231042074/large/week.png)
 
 <details>
 	<summary>Click to expand table</summary>
-	<h2>:calendar: Year Page Views Table</h2>
+	<h2>:calendar: Week Page Views Table</h2>
 <table>
 	<tr>
 		<th>
@@ -21,145 +21,90 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2025/4/1</code>
+			<code>2025/4/16</code>
 		</td>
 		<td>
-			<code>207</code>
+			<code>12</code>
 		</td>
 		<td>
-			<code>387</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2025/3/1</code>
-		</td>
-		<td>
-			<code>31</code>
-		</td>
-		<td>
-			<code>51</code>
+			<code>16</code>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<code>2025/2/1</code>
+			<code>2025/4/15</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>14</code>
 		</td>
 		<td>
-			<code>0</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2025/1/1</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-		<td>
-			<code>0</code>
+			<code>22</code>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<code>2024/12/1</code>
+			<code>2025/4/14</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>10</code>
 		</td>
 		<td>
-			<code>0</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2024/11/1</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-		<td>
-			<code>0</code>
+			<code>24</code>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<code>2024/10/1</code>
+			<code>2025/4/13</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>17</code>
 		</td>
 		<td>
-			<code>0</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2024/9/1</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-		<td>
-			<code>0</code>
+			<code>28</code>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<code>2024/8/1</code>
+			<code>2025/4/12</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>12</code>
 		</td>
 		<td>
-			<code>0</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2024/7/1</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-		<td>
-			<code>0</code>
+			<code>15</code>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<code>2024/6/1</code>
+			<code>2025/4/11</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>15</code>
 		</td>
 		<td>
-			<code>0</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2024/5/1</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-		<td>
-			<code>0</code>
+			<code>36</code>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<code>2024/4/1</code>
+			<code>2025/4/10</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>18</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>32</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/4/9</code>
+		</td>
+		<td>
+			<code>13</code>
+		</td>
+		<td>
+			<code>27</code>
 		</td>
 	</tr>
 </table>
