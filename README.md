@@ -26,18 +26,18 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/5/30 12:00 AM UTC
+			2025/5/31 12:00 AM UTC
 		</td>
 		<td>
-			944
+			954
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/AmigaMaster/github-profile-views-counter/raw/master/graph/231042074/small/week.png" height="20"> 1600
+			<img alt="Response time graph" src="https://github.com/AmigaMaster/github-profile-views-counter/raw/master/graph/231042074/small/week.png" height="20"> 1617
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/6/1 6:10 PM UTC</i></small>
+<small><i>Last updated on 2025/6/2 12:44 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
